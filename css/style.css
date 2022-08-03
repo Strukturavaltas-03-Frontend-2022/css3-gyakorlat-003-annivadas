@@ -4,13 +4,19 @@
 * 2. bal padding: 70 pixel
 * 3. felső padding: 70 pixel
 */
-
+.cta-100 {
+  margin-top: 100px;
+  margin-left: 70px;
+  padding-top: 70px;
+}
 
 /**
-* selector: col-md-4 osztály
+* selector: col-md-4 osztály7
 * 4. alsó padding: 20 pixel
 */
-
+.col-md-4 {
+  padding-bottom: 20px;
+}
 
 /**
 * selector: white osztály
